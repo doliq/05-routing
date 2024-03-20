@@ -22,13 +22,13 @@ Profile
 ### Praktikum 2
 
 blog
-![Screenshot](assets-report/01.png)
+![Screenshot](assets-report/04.png)
 
 First Blog
-![Screenshot](assets-report/02.png)
+![Screenshot](assets-report/05.png)
 
 Second Blog
-![Screenshot](assets-report/03.png)
+![Screenshot](assets-report/06.png)
 
 Pertanyaan: Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
 
@@ -43,3 +43,17 @@ Kekurangan yang mungkin terjadi jika menggunakan pendekatan praktikum 2 (nested 
 4. **Kinerja yang Buruk**: Nested routing dapat mengakibatkan kinerja yang buruk terutama jika terlalu banyak link bersarang yang harus ditangani oleh server.
 
 Penting untuk mempertimbangkan kekurangan-kekurangan ini dan memilih pendekatan routing yang sesuai dengan kebutuhan spesifik dan karakteristik jaringan Anda.
+
+### Praktikum 3
+
+Products
+![Screenshot](assets-report/07.png)
+
+ProductsId
+![Screenshot](assets-report/08.png)
+
+Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+![Screenshot](assets-report/09.png)
+
+Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
+![Screenshot](assets-report/10.png)
